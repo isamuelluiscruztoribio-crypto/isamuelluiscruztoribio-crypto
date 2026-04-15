@@ -27,10 +27,4 @@ Actualmente aprendiendo: fundamentos de ciberseguridad, redes con Cisco Packet T
 
 ---
 
-### Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isamuelluiscruztoribio-crypto&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 > *"La ciberseguridad no es un producto, es un proceso."*
